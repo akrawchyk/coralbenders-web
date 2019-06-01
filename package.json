@@ -33,6 +33,7 @@
   "keywords": [
     "gatsby"
   ],
+  "private": true,
   "license": "MIT",
   "main": "n/a",
   "scripts": {
